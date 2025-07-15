@@ -12,7 +12,6 @@ To design a dynamic pricing engine using Exploratory Data Analysis (EDA), Power 
 - Power BI (for interactive dashboards)
 - Microsoft Excel (initial data review and cleanup)
 - Jupyter Notebook
-- Tableau (optional) doesn't work on my laptop
   
 ## Dataset
 
@@ -55,27 +54,6 @@ A Jupyter Notebook (Airbnb.ipynb) performs exploratory analysis including:
 - Relationship between room type and average price
 - Impact of superhost status and guest capacity on pricing
 - Outlier detection and cleaning
-
-## Project Structure
-
-Airbnb-Dynamic-Pricing-recommendation-engine/
-│
-├── data/
-│ ├── Airbnb_India_data.xlsx
-│ └── Airbnb_India_Top_500.csv
-│
-├── notebooks/
-│ └── Airbnb_EDA.ipynb
-│
-├── visuals/
-│ └── Dashboard screenshots and exported visuals
-│
-├── presentation/
-│ └── Airbnb_India_Pricing_Insights_Presentation.pptx
-│
-├── Airbnb_India_pricing.pbix
-└── README.md
-
 
 ## How to Use
 
